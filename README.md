@@ -19,10 +19,7 @@ If you want to develop the skills necessary to move beyond junior to intermediat
 
 ### Advanced developer
 
-If you want to develop the skills necessary to move beyond intermediate to advanced developer - once you've finished tiers X, 0, 1, 2, and 3, proceed to complete tiers 4 and 5.
-
-- [tier 4 - Polish the Rough Edges](#tier-4---polish-the-rough-edges)
-- [tier 5 - Specialize](#tier-5---specialize)
+I'm ignoring the advanced developer content until I complete the intermediate developer content.
 
 ### Specializations
 
@@ -125,49 +122,3 @@ Dive deeper yet, exploring algorithms and different programming paradigms
 
 <br><br>
 
-## Advanced Developer
-
-### Tier 4 - Polish the Rough Edges
-
-Wrap up by taking a look at some specific areas of computing to complete a breadth of knowledge that can be leveraged regardless of specialty
-
-| Courses                                                                                                                                                                                               |   Status   |   Evidence   |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| [Computation Structures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009/index.htm)                                                  |            |              |
-| [Intro to Relational Databases](https://www.udacity.com/course/intro-to-relational-databases--ud197)                                                                                                  |            |              |
-| [Differential Equations](https://ocw.mit.edu/courses/mathematics/18-03sc-differential-equations-fall-2011/)                                                                                           |            |              |
-| [Database Systems Concepts & Design](https://www.udacity.com/course/database-systems-concepts-design--ud150)                                                                                          |            |              |
-| [Computer System Engineering](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/)                                                 |            |              |
-| [Performance Engineering of Software Systems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/)                   |            |              |
-| [Mining Massive Datasets](https://online.stanford.edu/courses/soe-ycs0007-mining-massive-data-sets)                                                                                       |            |              |
-| [Compilers](https://online.stanford.edu/courses/soe-ycscs1-compilers)                                                                                                               |            |              |
-| **Reading**                                                                                                                                                                                           | **Status** | **Evidence** |
-| [How to Design Programs](https://htdp.org/)                                                                                                                                                           |            |              |
-| [97 Things Every Programmer Should Know - Extended](https://leanpub.com/97-Things-Every-Programmer-Should-Know-Extended)                                                                              |            |              |
-| [Think Java - How to Think Like a Computer Scientist](http://greenteapress.com/wp/think-java/)                                                                                                        |            |              |
-| [Open Data Structures](http://www.aupress.ca/books/120226/ebook/99Z_Morin_2013-Open_Data_Structures.pdf)                                                                                              |            |              |
-| [Node.js Docs](https://nodejs.org/en/docs/)                                                                                                                                                           |            |              |
-| **Practice**                                                                                                                                                                                          | **Status** | **Evidence** |
-| Complete all Classic Puzzles - Very Hard on [CodinGame](https://www.codingame.com/)                                                                                                                   |            |              |
-| Study [The Google Android Developer Guide](https://developer.android.com/guide) and build the Android App of your choice                                                                              |            |              |
-| Complete [Google Kick Start 2015](https://codingcompetitions.withgoogle.com/kickstart/archive/2015)                                                                                                   |            |              |
-| Complete [Google Code Jam 2016](https://codingcompetitions.withgoogle.com/codejam/archive/2016)                                                                                                       |            |              |
-| Complete [FaceBook Hacker Cup 2015](https://www.facebook.com/hackercup/past_rounds/)                                                                                                                  |            |              |
-| Tier Programming Project                                                                                                                                                                              |            |              |
-| Tier Programming Project                                                                                                                                                                              |            |              |
-| **Specialization**                                                                                                                                                                                    | **Status** | **Evidence** |
-| Complete a [Specialization](#specializations) - note: you may elect to complete another round of a specialization you selected in a prior tier, or branch out and complete a different specialization |            |              |
-
-### Tier 5 - Specialize
-
-Wrap up by diving more deeply into your specialization(s). If you haven't already done an [Advanced Specialization](#advanced-specializations), strongly consider including it in this tier. Beyond that, feel free to laser focus on one specialization, practicing more in that area, or branch out and develop expertise across multiple specializations.
-
-| **Practice**                                                                                                                                                                    | **Status** | **Evidence** |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :--------: | :----------: |
-| Complete a [Specialization](#specializations)                                                                                                                                   |            |              |
-| Complete a [Specialization](#specializations)                                                                                                                                   |            |              |
-| Complete a [Specialization](#specializations)                                                                                                                                   |            |              |
-| Complete a [Specialization](#specializations)                                                                                                                                   |            |              |
-| Complete a [Specialization](#specializations)                                                                                                                                   |            |              |
-| **Capstone**                                                                                                                                                                    | **Status** | **Evidence** |
-| Create a website highlighting what you learned and built during this specialization. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |              |
